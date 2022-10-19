@@ -1,0 +1,1 @@
+--srcdir=/home/seso/SESO/projects/musllibc --prefix=/home/seso/SESO/build/projects/musllibc/build-temp/stage  --target=x86_64 --enable-warnings --disable-shared --enable-static
