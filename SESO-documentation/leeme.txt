@@ -1,0 +1,11 @@
+Compilar, ejecutar y parar. Ubicacion de main.c
+==========================================================
+>cd /home/seso/SESO/build
+>../init-build.sh PLATFORM=x86_64 -DSIMULATION=TRUE
+>ninja
+----------------------------------------------------------
+>./simulate
+----------------------------------------------------------
+ctrl+a, x
+----------------------------------------------------------
+SESO/projects/seso/src/main.c
